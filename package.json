@@ -1,0 +1,24 @@
+{
+  "name": "youtube-thumbnail-proxy",
+  "description": "A proxy server to get base64 encoded YouTube video thumbnail images",
+  "repository": "https://github.com/drenther/youtube-thumbnail-proxy",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": [
+    "node",
+    "express",
+    "static"
+  ],
+  "license": "MIT",
+  "author": "Soumyajit Pathak",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  }
+}

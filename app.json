@@ -1,0 +1,7 @@
+{
+  "name": "youtube-thumbnail-proxy",
+  "description": "A proxy server to get base64 encoded YouTube video thumbnail images",
+  "repository": "https://github.com/drenther/youtube-thumbnail-proxy",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static"]
+}
